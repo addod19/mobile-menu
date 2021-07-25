@@ -9,7 +9,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 62.5%;
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -19,15 +19,6 @@ a {
 hr {
   width: 80vw;
 }
-
-/* header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px;
-  background-color: #3c3a39;
-  color: #fff5e1;
-} */
 
 #desktop-nav,
 #desktop-nav ul {
@@ -565,10 +556,6 @@ textarea {
 }
 
 /* Mobile Menu styling */
-
-li {
-	list-style: none;
-}
 
 .header{
   background-color: #3c3a39;
