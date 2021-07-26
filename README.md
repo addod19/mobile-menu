@@ -21,13 +21,14 @@ Application is based on this [Figma Design]()
 - [ ] `npx stylelint "**/*.scss"`
 - [ ] `npx hint .`
 
-## Desktop Screenshot view
+## Mobile Hamburger Screenshot view
 
-![desktop]()
+![Screenshot from 2021-07-25 22-59-41](https://user-images.githubusercontent.com/46388113/126916119-4d415040-ee10-44de-a806-562dd66fcab9.png)
 
-## Mobile screenshot view
+## Mobile Hamburger Clicked screenshot view
 
-![mobile]()
+![Screenshot from 2021-07-25 23-00-03](https://user-images.githubusercontent.com/46388113/126916125-3a83960c-fbf2-409a-b886-d72ab2ae5def.png)
+
 
 ## Author
 - [ ] [LinkedIn](https://www.linkedin.com/in/daniel-larbi-addo/)
@@ -35,5 +36,6 @@ Application is based on this [Figma Design]()
 - [ ] [Twitter](https://twitter.com/DanielLarbiAdd1)
 
 
-## Deployment
-- [ ] [Live version demo]()
+## Heroku Deployment
+
+- [ ] [mobile menu](https://mobile-menu1.herokuapp.com/)
