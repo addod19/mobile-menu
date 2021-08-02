@@ -39,3 +39,39 @@ Application is based on this [Figma Design]()
 ## Heroku Deployment
 
 - [ ] [mobile menu](https://mobile-menu1.herokuapp.com/)
+
+## Author
+
+
+👤 **Daniel Larbi Addo**
+
+- Github: [@addod19](https://github.com/addod19)
+- Twitter: [@DanielLarbiAdd1](https://twitter.com/DanielLarbiAdd1)
+- Linkedin: [Daniel Larbi Addo](https://linkedin.com/in/daniel-larbi-addo/)
+- Email: (addodaniellarbi@gmail.com)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/addod19/mobile-menu/issues).
+
+
+1. Fork it (https://github.com/addod19/mobile-menu)
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create a new Pull Request
+
+## Show your support
+
+Give us a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- MIcroverse
+- Microverse TSE's
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
